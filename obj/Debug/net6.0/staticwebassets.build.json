@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "GG01Nz8h0KtH321VmaNyiJuzXyKqnxgzdBbPAhgWFyg=",
+  "Source": "EComm",
+  "BasePath": "_content/EComm",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EComm\\wwwroot",
+      "Source": "EComm",
+      "ContentRoot": "C:\\Users\\Haxkd\\source\\repos\\EComm\\wwwroot\\",
+      "BasePath": "_content/EComm",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Haxkd\\source\\repos\\EComm\\wwwroot\\images\\Capture1.PNG",
+      "SourceId": "EComm",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Haxkd\\source\\repos\\EComm\\wwwroot\\",
+      "BasePath": "_content/EComm",
+      "RelativePath": "images/Capture1.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Capture1.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\Haxkd\\source\\repos\\EComm\\wwwroot\\images\\Capture2.PNG",
+      "SourceId": "EComm",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Haxkd\\source\\repos\\EComm\\wwwroot\\",
+      "BasePath": "_content/EComm",
+      "RelativePath": "images/Capture2.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Capture2.PNG"
+    }
+  ]
+}
